@@ -1,0 +1,787 @@
+[
+  {
+    "patterns": [
+      "hello",
+      "hi",
+      "hey"
+    ],
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "patterns": [
+      "name",
+      "college name"
+    ],
+    "response": "KONGU ENGINEERING COLLEGE."
+  },
+  {
+    "patterns": [
+      "located",
+      "situated",
+      "direction",
+      "location",
+      "address"
+    ],
+    "response": "Kongu Engineering College is located in Toppupalayam, Perundurai, Erode district."
+  },
+  {
+    "patterns": [
+      "structure",
+      "infrastructure",
+      "buildings",
+      "blocks"
+    ],
+    "response": "Kongu Engineering College has state-of-the-art infrastructure with modern facilities."
+  },
+  {
+    "patterns": [
+      "facility",
+      "facilities"
+    ],
+    "response": "Kongu Engineering College's campus is equipped with modern facilities and state-of-the-art infrastructure. 1. Physical Education 2. Hostel and Accommodation 3. Transport 4. Dispensary & Ambulance Service 5. WiFi Facility. 6. FoodCourt and Amenity Centre 7. KVB Bank & ATM facility 8. Post Office 9. 24x7 Power Supply and Security"
+  },
+  {
+    "patterns": [
+      "dept",
+      "department",
+      "departments"
+    ],
+    "response": "Computer Science and Engineering (CSE) Information Technology (IT) Electronics and Communication Engineering (ECE) Electrical and Electronics Engineering (EEE) Mechanical Engineering Automobile Engineering Electronics and Instrumentation Engineering (EIE) Mechatronics Engineering Food Technology (FT) Civil Engineering Chemical Engineering Artificial Intelligence and Data Science (AI-ML/AI-DS) Computer Applications (MCA) Masters in Business Administration (MBA) Bachelor of Computer Systems (BSC) Master of Computer Systems (MSC)"
+  },
+  {
+    "patterns": [
+      "engineering departments",
+      "departments"
+    ],
+    "response": "Computer Science and Engineering (CSE), Information Technology (IT), Electronics and Communication Engineering (ECE), Electrical and Electronics Engineering (EEE), Mechanical Engineering, Automobile Engineering, Electronics and Instrumentation Engineering (EIE), Mechatronics Engineering, Food Technology (FT), Civil Engineering, Chemical Engineering"
+  },
+  {
+    "patterns": [
+      "cse fees",
+      "cse fees structure",
+      "cse fee structure",
+      "cse fee"
+    ],
+    "response": "Fees for Computer Sceience Engineering (CSE): Management Fee: Rs.1,40,000/- , Counselling Fee: Rs.1,10,000/-"
+  },
+  {
+    "patterns": [
+      "it fees",
+      "it fees structure",
+      "it fee structure",
+      "it fee",
+      "information technology fees"
+    ],
+    "response": "Fees for Information Technology (IT): Management Fee: Rs.1,25,000/- , Counselling Fee: Rs.1,00,000/-"
+  },
+  {
+    "patterns": [
+      "ece fees",
+      "ece fees structure",
+      "ece fee structure",
+      "ece fee"
+    ],
+    "response": "Fees for Electronics and Communication Engineering (ECE): Management Fee: Rs.1,25,000/- , Counselling Fee: Rs.1,00,000/-"
+  },
+  {
+    "patterns": [
+      "placement",
+      "campus interview",
+      "placement cell"
+    ],
+    "response": "The placement cell has been functioning in our campus since 1998. Placement Cell serves as a bridge between the academic world and the professional realm, facilitating the transition of students from the classroom to the workplace. Placement Cells have evolved significantly over the years and moved beyond merely organizing campus interviews to offering comprehensive career development services. The integration of technology has streamlined the job search process, allowing students to access job listings and resources online. Furthermore, Placement Cells now recognize the importance of holistic development. We focus on nurturing not only technical skills but also interpersonal skills, emotional intelligence, and adaptability, as these qualities are highly valued by employers."
+  },
+  {
+    "patterns": [
+      "placement percentage",
+      "last year",
+      "status",
+      "2023",
+      "2022-2023"
+    ],
+    "response": "Placement report for the 2023 Batch, around 265 companies visited the campus till March 2023 for placements. A total of 1943 offers were made by the participating companies. Up to March 2023, as many as 1447 students were placed. The average salary package for 2023 is 4.8LPA."
+  },
+  {
+    "patterns": [
+      "highest package",
+      "highest",
+      "salary",
+      "2023"
+    ],
+    "response": "Highest salary Package: 40LPA."
+  },
+  {
+    "patterns": [
+      "average package",
+      "average",
+      "salary",
+      "2023"
+    ],
+    "response": "Average Salary package for 2023 batch students: 4.8 LPA"
+  },
+  {
+    "patterns": [
+      "cse fees",
+      "donation fees",
+      "cse donation fee",
+      "cse donation fees"
+    ],
+    "response": "Fees for Computer Sceience Engineering (CSE): Management Fee: Rs.1,40,000/- , Counselling Fee: Rs.1,00,000/-"
+  },
+  {
+    "patterns": [
+      "principal"
+    ],
+    "response": "Principal: Dr.V.Balusamy"
+  },
+  {
+    "patterns": [
+      "circuit branches",
+      "it branches"
+    ],
+    "response": "Circuit Branches in Kongu Engineering College: CSE, IT, ECE, CSD, AI-ML, AI-DS."
+  },
+  {
+    "patterns": [
+      "non-circuit branches",
+      "non-it branches"
+    ],
+    "response": "Non-Circuit Branches in Kongu Engineering College: EEE, EIE, Mechanical, Civil, Mechatronics, Food Technology, Chemical, Naturopathy."
+  },
+  {
+    "patterns": [
+      "central library",
+      "library"
+    ],
+    "response": "CD MEMORIAL LIBRARY: Voulmes - 85004, Titles - 27970, Journals - 243, Magazines - 40."
+  },
+  {
+    "patterns": [
+      "courses",
+      "it courses"
+    ],
+    "response": "Digital Logics and Microprocessors(DLM), Principles of Communication, Data Structures, Object Oriented Programming Language, Web Development, Design and Analysis of Algorithms,User Interface Design, Operating Systems, Computer Networks"
+  },
+  {
+    "patterns": [
+      "achievements",
+      "faculty achievements",
+      "faculty",
+      "achieved"
+    ],
+    "response": "NCC Flying Officer Jeevanantham of KEC Received First in Order of Merit Award in National Level Pre Commission Training Course 2021 , Major Dr. P.S. Raghavendran NCC Officer of Kongu Engineering College Bagged the Directorate General Commendation Award 2022, Dr.T.P.Sathish Kumar - Mechanical Engineering of KEC Listed among the Top Indian Researchers in Worldwide Scientists Database 2021, Dr.V.Hariharan - Professor of Mechanical Engineering received ISTE Best Student Chapter Faculty Advisor Award for the year 2021., Ms.S.Vijayashanthy - Assistant Professor of Civil Engineering received ISTE Best Student Chapter Faculty Advisor Award for the year 2021., S. Jeevanantham received Best Performing Associate NCC Officer / Caretaker Award - 11.12.2020"
+  },
+  {
+    "patterns": [
+      "dress code for boys and girls",
+      "dress code"
+    ],
+    "response": "Boys should wear only formal shirts and cotton pant and shoes (Black or Brown Colour). Girls should wear only churidar with dhuppatta or sarees and shoes (Black or Brown Colour)."
+  },
+  {
+    "patterns": [
+      "hostel facility",
+      "hostel",
+      "college hostel"
+    ],
+    "response": "There are around 3 Ladies hostel and 7 Mens hostel. Also, there are 2 Alumni Guest House and a Staff Quarters."
+  },
+  {
+    "patterns": [
+      "boys",
+      "boys hostel",
+      "mens hostel"
+    ],
+    "response": "1. Dheeran Mens hostel, 2. Valluvar Mens hostel, 3. Ilango Mens hostel, 4. Bharathi Mens hostel, 5. Kamban Mens hostel, 6. Ponnar Mens hostel,7. Sankar Mens hostel"
+  },
+  {
+    "patterns": [
+      "girls",
+      "girls hostel",
+      "ladies hostel"
+    ],
+    "response": "1. Kauveri Ladies hostel 2. Amaravathi Ladies hostel 3. Bhavani Ladies hostel"
+  },
+  {
+    "patterns": [
+      "correspondent"
+    ],
+    "response": "Thiru. A.K.Ilango"
+  },
+  {
+    "patterns": [
+      "accrediation",
+      "accredications"
+    ],
+    "response": "Accrediations in Kongu Engineering College: NAAC, NBA, NIRF, AICTE"
+  },
+  {
+    "patterns": [
+      "NAAC accrediation",
+      "NAAC"
+    ],
+    "response": "Kongu Engineering college is accrediated with the highest grade A++ by NAAC."
+  },
+  {
+    "patterns": [
+      "vision",
+      "vision"
+    ],
+    "response": "To be a centre of excellence for development and dissemination of knowledge in Applied science, Technology, Engineering and Management for the Nation and beyond."
+  },
+  {
+    "patterns": [
+      "other institutions",
+      "kvit trust",
+      "kvit institutions",
+      "kvit branches"
+    ],
+    "response": "Kongu Polytechnic College, Perundurai, Kongu Arts & Science College, Nanjanapuram, Erode, Kongu School of Architecture, Perundurai, Kongu Naturopathy and Yoga Medical College & Hospital, Perundurai, Kongu Private Industrial Training Institute, Perundurai, Kongu National Matriculation School, Erode."
+  },
+  {
+    "patterns": [
+      "mission",
+      "mission"
+    ],
+    "response": "We are committed to value based Education, Research and Consultancy in Engineering and Management and to bring out technically competent, ethically strong and quality professionals to keep our Nation ahead in the competitive knowledge intensive world."
+  },
+  {
+    "patterns": [
+      "hostel rules",
+      "hostel regulations",
+      "accommodation guidelines"
+    ],
+    "response": "Hostel rules and regulations are in place to ensure a safe and comfortable stay for our students. Specific rules can be obtained from the hostel administration."
+  },
+  {
+    "patterns": [
+      "admission deadlines",
+      "admission dates",
+      "application dates",
+      "important admission dates"
+    ],
+    "response": "Admission deadlines can vary by program (department). It's essential to regularly check the college's official website for updated admission dates."
+  },
+  {
+    "patterns": [
+      "scholarships",
+      "scholarship",
+      "financial aid",
+      "scholarship programs"
+    ],
+    "response": "KEC offers various scholarship programs for eligible students. Details about scholarships and eligibility criteria can be found on the college website."
+  },
+  {
+    "patterns": [
+      "ranking",
+      "KEC ranking",
+      "national ranking"
+    ],
+    "response": "Kongu Engineering College has consistently ranked among the top engineering colleges in India. You can find our latest rankings on the NIRF website or our college website."
+  },
+  {
+    "patterns": [
+      "alumni testimonials",
+      "student feedback",
+      "alumni reviews"
+    ],
+    "response": "We have a rich collection of alumni testimonials and reviews that showcase the positive experiences and career successes of our former students."
+  },
+  {
+    "patterns": [
+      "contact information",
+      "KEC contact",
+      "college address",
+      "address"
+    ],
+    "response": "You can contact Kongu Engineering College at Toppupalayam, Perundurai, Erode district, Tamil Nadu, India. For specific department contacts, please visit our website."
+  },
+  {
+    "patterns": [
+      "research funding",
+      "research grants",
+      "funding opportunities"
+    ],
+    "response": "The college provides research funding and grant opportunities to support research projects. Details can be obtained from the college's research office."
+  },
+  {
+    "patterns": [
+      "admission helpline",
+      "contact for admissions",
+      "admission queries"
+    ],
+    "response": "For admission-related queries, please contact our admission helpline at [Phone Number] or visit our admission office on campus."
+  },
+  {
+    "patterns": [
+      "college events",
+      "upcoming events",
+      "cultural fest"
+    ],
+    "response": "KEC regularly hosts a variety of events, including cultural fests, technical symposiums, and conferences. Some of the events are: Enthusia, Kongu Trophy, Swaram."
+  },
+  {
+    "patterns": [
+      "faculty-to-student ratio",
+      "teacher-student ratio",
+      "faculty strength"
+    ],
+    "response": "We maintain an ideal faculty-to-student ratio to ensure personalized attention and a high-quality education. There are around 500+ faculties in our college. Specific ratios can be obtained from our academic affairs office."
+  },
+  {
+    "patterns": [
+      "anti-ragging policy",
+      "antiragging",
+      "ragging rules",
+      "ragging prevention"
+    ],
+    "response": "KEC has a strict anti-ragging policy in place to ensure a safe and harassment-free environment for all students. Any instances of ragging are dealt with seriously."
+  },
+  {
+    "patterns": [
+      "college newsletter",
+      "KEC updates",
+      "campus news",
+      " college updates"
+    ],
+    "response": "Stay updated with the latest college news and updates by subscribing to our newsletter, available on the college website."
+  },
+  {
+    "patterns": [
+      "sports achievements",
+      "sports",
+      "athletics success",
+      "sports awards"
+    ],
+    "response": "KEC has a rich history of sports achievements, with our students excelling in various athletic events and winning numerous awards."
+  },
+  {
+    "patterns": [
+      "healthcare facilities",
+      "dispensary",
+      "medical services",
+      "college clinic"
+    ],
+    "response": "The college provides healthcare facilities, including a clinic and medical services for students' well-being."
+  },
+  {
+    "patterns": [
+      "social initiatives",
+      "community service",
+      "NGO collaborations"
+    ],
+    "response": "We actively engage in social initiatives and community service, collaborating with NGOs and promoting social responsibility among students."
+  },
+  {
+    "patterns": [
+      "student organizations",
+      "clubs and societies",
+      "student associations",
+      "clubs"
+    ],
+    "response": "Our campus hosts a variety of student organizations, clubs, and societies, catering to diverse interests and hobbies."
+  },
+  {
+    "patterns": [
+      "industry exposure",
+      "corporate visits",
+      "industrial tours"
+    ],
+    "response": "To enhance practical knowledge, students often go on industrial tours and corporate visits to gain exposure to real-world applications."
+  },
+  {
+    "patterns": [
+      "faculty research",
+      "research publications",
+      "faculty projects"
+    ],
+    "response": "Our esteemed faculty actively engage in research, contributing to numerous research publications and projects."
+  },
+  {
+    "patterns": [
+      "alumni network events",
+      "alumni reunions",
+      "alumni interactions"
+    ],
+    "response": "We regularly organize alumni network events and reunions to facilitate interactions between alumni and current students."
+  },
+  {
+    "patterns": [
+      "student mentorship",
+      "peer support",
+      "senior-junior interactions"
+    ],
+    "response": "We encourage student mentorship programs and senior-junior interactions to provide guidance and support to newer students."
+  },
+  {
+    "patterns": [
+      "library resources",
+      "e-books",
+      "research databases"
+    ],
+    "response": "Our library provides access to a wide range of resources, including e-books and research databases, to support academic excellence."
+  },
+  {
+    "patterns": [
+      "transport facilities",
+      "college buses",
+      "commuting options"
+    ],
+    "response": "Kongu Engineering College offers transport facilities, including college buses, to assist students with their daily commuting needs."
+  },
+  {
+    "patterns": [
+      "hostel mess",
+      "food quality",
+      "catering services"
+    ],
+    "response": "The hostel mess at KEC provides nutritious and quality food for students, ensuring their well-being."
+  },
+  {
+    "patterns": [
+      "academic calendar",
+      "exam schedules",
+      "academic events"
+    ],
+    "response": "Stay updated with the academic calendar and exam schedules, available on our college website, to plan your academic year effectively."
+  },
+  {
+    "patterns": [
+      "innovation labs",
+      "technology hubs",
+      "research centers"
+    ],
+    "response": "We house innovation labs, technology hubs, and research centers that promote innovation and technological advancement."
+  },
+  {
+    "patterns": [
+      "cultural diversity",
+      "student demographics",
+      "multicultural environment"
+    ],
+    "response": "Our college prides itself on its diverse student body, fostering a multicultural and inclusive environment."
+  },
+  {
+    "patterns": [
+      "feedback system",
+      "student suggestions",
+      "complaints and feedback"
+    ],
+    "response": "We value student feedback and have a system in place to receive suggestions and address any concerns."
+  },
+  {
+    "patterns": [
+      "alumni success stories",
+      "notable alumni achievements",
+      "career paths"
+    ],
+    "response": "Explore the inspiring success stories of our notable alumni, showcasing their diverse career paths and achievements."
+  },
+  {
+    "patterns": [
+      "MOUs and collaborations",
+      "academic partnerships",
+      "industry tie-ups"
+    ],
+    "response": "We have signed numerous MOUs and collaborations with academic institutions and industries, enhancing opportunities for our students."
+  },
+  {
+    "patterns": [
+      "women's safety measures",
+      "gender inclusivity",
+      "safety initiatives"
+    ],
+    "response": "We prioritize women's safety on campus and have implemented safety measures and initiatives to create a secure environment."
+  },
+  {
+    "patterns": [
+      "international students",
+      "foreign exchange programs",
+      "global education"
+    ],
+    "response": "We welcome international students and offer various programs to facilitate global education and exchange opportunities."
+  },
+  {
+    "patterns": [
+      "green initiatives",
+      "environmental sustainability",
+      "eco-friendly practices"
+    ],
+    "response": "KEC is committed to green initiatives and environmental sustainability, practicing eco-friendly measures on campus."
+  },
+  {
+    "patterns": [
+      "online courses",
+      "e-learning platforms",
+      "digital resources"
+    ],
+    "response": "Explore our online courses and e-learning platforms that provide digital resources for flexible learning."
+  },
+  {
+    "patterns": [
+      "student achievements",
+      "academic excellence",
+      "scholastic honors"
+    ],
+    "response": "Our students have achieved scholastic honors and exhibited academic excellence in various fields of study."
+  },
+  {
+    "patterns": [
+      "international partnerships",
+      "collaboration with universities",
+      "global opportunities"
+    ],
+    "response": "We have international partnerships with universities worldwide, opening doors to global academic and research opportunities."
+  },
+  {
+    "patterns": [
+      "canteen facilities",
+      "food options",
+      "campus dining"
+    ],
+    "response": "Enjoy a variety of food options at our campus canteen, which caters to diverse culinary preferences."
+  },
+  {
+    "patterns": [
+      "faculty development programs",
+      "teacher training",
+      "professional growth"
+    ],
+    "response": "Our faculty development programs promote continuous professional growth and teacher training to enhance the quality of education."
+  },
+  {
+    "patterns": [
+      "research grants",
+      "funding for projects",
+      "academic research support"
+    ],
+    "response": "Explore research grants and funding opportunities available for academic research and projects at KEC."
+  },
+  {
+    "patterns": [
+      "student counseling services",
+      "emotional support",
+      "counseling helpline"
+    ],
+    "response": "We provide student counseling services and emotional support through a dedicated counseling helpline."
+  },
+  {
+    "patterns": [
+      "industry-academia partnerships",
+      "collaborative projects",
+      "joint ventures"
+    ],
+    "response": "Our industry-academia partnerships lead to collaborative projects and joint ventures that benefit both students and industries."
+  },
+  {
+    "patterns": [
+      "student publications",
+      "campus magazines",
+      "literary contributions"
+    ],
+    "response": "Discover the literary talents of our students through their publications and contributions to campus magazines."
+  },
+  {
+    "patterns": [
+      "cultural festivals",
+      "fest highlights",
+      "fest participation"
+    ],
+    "response": "Our cultural festivals are highlights of the academic year, providing opportunities for student participation and showcasing diverse talents."
+  },
+  {
+    "patterns": [
+      "placement preparation",
+      "career guidance workshops",
+      "interview training"
+    ],
+    "response": "We offer placement preparation and career guidance workshops, including interview training, to help students excel in job interviews."
+  },
+  {
+    "patterns": [
+      "internship opportunities",
+      "intership",
+      "interships",
+      "industry exposure",
+      "practical experience"
+    ],
+    "response": "Students have access to a wide range of internship opportunities, providing valuable industry exposure and practical experience."
+  },
+  {
+    "patterns": [
+      "entrepreneurship initiatives",
+      "interpreneurship",
+      "startup support",
+      "business incubation"
+    ],
+    "response": "We support entrepreneurship initiatives and provide startup support, including business incubation services."
+  },
+  {
+    "patterns": [
+      "faculty recognition",
+      "awards for teachers",
+      "faculty achievements"
+    ],
+    "response": "Our faculty members have received recognition and awards for their achievements and contributions to education."
+  },
+  {
+    "patterns": [
+      "virtual campus tour",
+      "campus walkthrough",
+      "virtual open day"
+    ],
+    "response": "Explore our campus virtually with a guided tour that provides a comprehensive walkthrough of our facilities and infrastructure."
+  },
+  {
+    "patterns": [
+      "academic partnerships",
+      "collaboration with colleges",
+      "academic exchange"
+    ],
+    "response": "We have academic partnerships and collaborations with other colleges and institutions, promoting academic exchange and collaboration."
+  },
+  {
+    "patterns": [
+      "student coding competitions",
+      "hackathons",
+      "programming contests"
+    ],
+    "response": "Participate in student coding competitions, hackathons, and programming contests to showcase your coding skills."
+  },
+  {
+    "patterns": [
+      "parent-teacher interactions",
+      "PTA meetings",
+      "communication with parents"
+    ],
+    "response": "We facilitate regular parent-teacher interactions and PTA meetings to maintain open communication with parents and guardians."
+  },
+  {
+    "patterns": [
+      "startup success stories",
+      "entrepreneurship achievements",
+      "startup case studies"
+    ],
+    "response": "Learn from our startup success stories and explore entrepreneurship achievements and case studies from our college."
+  },
+  {
+    "patterns": [
+      "mentorship programs",
+      "career guidance mentors",
+      "academic advisors"
+    ],
+    "response": "Our mentorship programs connect students with career guidance mentors and academic advisors to offer guidance and support."
+  },
+  {
+    "patterns": [
+      "student code of conduct",
+      "college rules and regulations",
+      "disciplinary policy"
+    ],
+    "response": "Familiarize yourself with the student code of conduct and college rules and regulations, including the disciplinary policy."
+  },
+  {
+    "patterns": [
+      "student awards and honors",
+      "student achievements",
+      "scholarships and awards"
+    ],
+    "response": "Our students have received numerous awards and honors, including scholarships and academic recognition."
+  },
+  {
+    "patterns": [
+      "faculty research projects",
+      "research focus areas",
+      "faculty expertise"
+    ],
+    "response": "Explore the various faculty research projects and the research focus areas in which our faculty members have expertise."
+  },
+  {
+    "patterns": [
+      "student accommodation options",
+      "off-campus housing",
+      "PG accommodations"
+    ],
+    "response": "We provide information on student accommodation options, including off-campus housing and PG accommodations near the college."
+  },
+  {
+    "patterns": [
+      "college anti-drug policy",
+      "substance abuse prevention",
+      "drug awareness programs"
+    ],
+    "response": "KEC is committed to maintaining a drug-free environment and conducts drug awareness programs as part of our anti-drug policy."
+  },
+  {
+    "patterns": [
+      "student art and culture",
+      "fine arts achievements",
+      "cultural diversity celebrations"
+    ],
+    "response": "Students at KEC actively participate in art and culture, showcasing their fine arts achievements and celebrating cultural diversity."
+  },
+  {
+    "patterns": [
+      "academic honors",
+      "scholarship recipients",
+      "merit-based scholarships"
+    ],
+    "response": "We recognize academic honors and scholarship recipients, including students who have received merit-based scholarships."
+  },
+  {
+    "patterns": [
+      "faculty publications",
+      "research papers",
+      "academic journals"
+    ],
+    "response": "Our faculty regularly contribute to academic journals and publications, with research papers and scholarly articles."
+  },
+  {
+    "patterns": [
+      "student advisory services",
+      "academic guidance counselors",
+      "student support team"
+    ],
+    "response": "Our student advisory services, academic guidance counselors, and student support team are available to provide assistance and guidance."
+  },
+  {
+    "patterns": [
+      "college admission brochure",
+      "prospectus download",
+      "admission information booklet"
+    ],
+    "response": "Download our college admission brochure or prospectus for comprehensive admission information and details."
+  },
+  {
+    "patterns": [
+      "student grievance redressal",
+      "complaint resolution",
+      "student feedback process"
+    ],
+    "response": "We have a student grievance redressal system in place to resolve complaints and feedback provided by students."
+  },
+  {
+    "patterns": [
+      "faculty research grants",
+      "funding opportunities for professors",
+      "faculty research support"
+    ],
+    "response": "Faculty members can explore research grants and funding opportunities available to support their research projects."
+  },
+  {
+    "patterns": [
+      "student exchange programs",
+      "international study opportunities",
+      "semester abroad"
+    ],
+    "response": "Participate in student exchange programs and explore international study opportunities, including the possibility of a semester abroad."
+  },
+  {
+    "patterns": [
+      "alumni career guidance",
+      "job placement assistance",
+      "career services for graduates"
+    ],
+    "response": "Our alumni are provided with career guidance and job placement assistance to support their professional growth and development."
+  }
+]

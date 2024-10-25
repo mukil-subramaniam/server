@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Results",
+        "url": "https://results.kongu.edu",
+        "icon": "0xe13f"
+    },
+    {
+        "id": 1,
+        "name": "Grievance",
+        "url": "https://results.kongu.edu",
+        "icon": "0xef70"
+    },
+    {
+        "id": 2,
+        "name": "Student Portal",
+        "url": "https://kms.kongu.edu/student/",
+        "icon": "0xf01e5"
+    },
+    {
+        "id": 3,
+        "name": "Student Portal",
+        "url": "https://kms.kongu.edu/student/",
+        "icon": "0xf01e5"
+    },
+    {
+        "id": 4,
+        "name": "Student Portal",
+        "url": "https://kms.kongu.edu/student/",
+        "icon": "0xf01e5"
+    },
+    {
+        "id": 5,
+        "name": "Student Portal",
+        "url": "https://kms.kongu.edu/student/",
+        "icon": "0xf01e5"
+    }
+]
